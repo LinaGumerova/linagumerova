@@ -37,5 +37,5 @@
 ## Тестовые артефакты
 
 - В рамках обучения я провела ручное тестирование веб-сайта по подбору имени коту 🐈 [Meowle](https://meowle.fintech-qa.ru/).
-- Написала [чек-лист](https://docs.google.com/spreadsheets/d/1vIg-UAnmJauqrFiu-4furj_fHWS-BgPLva39iHm9baQ/edit?usp=sharing), разработала [тест-кейсы](https://drive.google.com/file/d/1KXc6H2HVxL0Rth9WDTZ7WNmvpK1BvRBd/view?usp=drive_link) в Test IT
+- Написала [чек-лист](https://docs.google.com/spreadsheets/d/1vIg-UAnmJauqrFiu-4furj_fHWS-BgPLva39iHm9baQ/edit?usp=sharing), разработала [тест-кейсы](https://drive.google.com/file/d/18BTRQSrP_fGJJhD5NO4C5tjwvSyUklAR/view?usp=drive_link) в Test IT
 - Оформила [баг-репорты](https://drive.google.com/file/d/1rjKVY3wd-bEnrcA7tqF5QKsdeBxIl-k9/view?usp=drive_link) в Jira
