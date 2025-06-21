@@ -1,10 +1,15 @@
-## Привет, меня зовут Линара!
+## 👋 Привет, меня зовут Линара!
 
 ## Обо мне
+ 👩🏻‍💻 Я начинающий специалист в области тестирования ПО.
+ 🛠️ Изучила ручное тестирование
+ 📚 Сейчас активно изучаю Pyton
+ 📁 Проекты и учебные репозитории - ниже 👇
 
-## CV
+## [CV] (https://drive.google.com/file/d/1zsadJ7rGLoQ9t9QDs_eLwpEv8pHToEKW/view?usp=drive_link)
 
 ## Инструменты которые я использую
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
 <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>
@@ -22,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+</p>
 
 ## Связаться со мной 
 
