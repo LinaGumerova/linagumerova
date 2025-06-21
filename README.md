@@ -1,15 +1,12 @@
 ## 👋 Привет, меня зовут Линара!
 
 ## Обо мне
-👩🏻‍💻 Я начинающий специалист в области тестирования ПО.
+<p>👩🏻‍💻 Я начинающий специалист в области тестирования ПО.</p>
+<p>🛠️ Изучила ручное тестирование</p>
+<p>📚 Сейчас активно изучаю Pyton</p>
+<p>📁 Проекты и учебные репозитории - ниже 👇</p>
 
-🛠️ Изучила ручное тестирование
-
-📚 Сейчас активно изучаю Pyton
-
-📁 Проекты и учебные репозитории - ниже 👇
-
-## [CV](https://drive.google.com/file/d/1zsadJ7rGLoQ9t9QDs_eLwpEv8pHToEKW/view?usp=drive_link)
+## [Резюме](https://drive.google.com/file/d/1zsadJ7rGLoQ9t9QDs_eLwpEv8pHToEKW/view?usp=drive_link)
 
 ## Инструменты которые я использую
 <p align="center">
@@ -36,3 +33,5 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=flat&logo=telegram&logoColor=white)](https://t.me/Linara_gumerova)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lina.gum95@gmail.com)
+
+## Тестовые артефакты
